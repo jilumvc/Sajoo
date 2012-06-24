@@ -68,6 +68,7 @@
     <Compile Include="Controller\Admin\partial\ArticleController.cs" />
     <Compile Include="Controller\Admin\SecurityController.cs" />
     <Compile Include="Controller\Admin\UserController.cs" />
+    <Compile Include="Controller\LangController.cs" />
     <Compile Include="Controller\ProductController.cs" />
     <Compile Include="Controller\CategoryController.cs" />
     <Compile Include="Controller\FooterController.cs" />

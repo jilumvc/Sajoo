@@ -14,6 +14,9 @@ namespace wojilu.cms.Controller {
             //set( "adminLink", to( new Admin.ArticleController().Index ) ); // 后台管理首页的链接
             //set( "loginLink", to( new Admin.LoginController().Login ) );
 
+            set("loginLink", t2(new LangController().Switch) + "?lang=en-us");
+
+            set("adminLink", t2(new LangController().Switch) + "?lang=zh-cn");
 
             List<Category> categories = Category.findAll();
             bindCategories( categories );
