@@ -68,7 +68,7 @@
     <Compile Include="Controller\Admin\partial\ArticleController.cs" />
     <Compile Include="Controller\Admin\SecurityController.cs" />
     <Compile Include="Controller\Admin\UserController.cs" />
-    <Compile Include="Controller\ArticleController.cs" />
+    <Compile Include="Controller\ProductController.cs" />
     <Compile Include="Controller\CategoryController.cs" />
     <Compile Include="Controller\FooterController.cs" />
     <Compile Include="Controller\LayoutController.cs" />
@@ -77,6 +77,7 @@
     <Compile Include="Domain\backup\Article1.cs" />
     <Compile Include="Domain\backup\Category1.cs" />
     <Compile Include="Domain\Footer.cs" />
+    <Compile Include="Domain\Product.cs" />
     <Compile Include="Domain\UploadFile.cs" />
     <Compile Include="Domain\backup\User1.cs" />
     <Compile Include="Interface\ICategoryService.cs" />

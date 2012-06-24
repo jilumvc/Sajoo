@@ -1,14 +1,14 @@
-﻿body{background:url(../img/site/bg.jpg) repeat-x top;}
+﻿body {background: #336699;} /*整个网页的背景*/
 
-#bodyWrap{width:880px;margin:auto;padding:0 10px 0 10px;background:#fff;}
-#header{height:80px;background:url(../img/site/header-bg.gif);}
-#logo{padding:20px 0 0 0px;float:left;}
-#banner {width:530px;height:80px;float:left;margin-left:50px;background2:url(../img/site/banner.jpg);}
+#bodyWrap{width:1008px;margin:auto;padding:0 0px 0 0px;background:#336699;}
+#header{height:100px;background:#336699;}
+#logo{padding:0px 0 0 0px;float:left;}
+#banner {width:530px;height:80px;float:left;margin-left:50px;background:url(../img/site/banner.jpg);}
 #userLogin {float:right;padding:20px; line-height:150%;}
 #userLogin a {color:#fff;}
 
 /*-----------------------------menu-------------------*/
-#menu{height:38px;background:url(../img/site/menu-bg.jpg) center;clear:both;}
+#menu{height:38px;clear:both;}
 #menu ul{padding:2px 0 0 50px;margin:0px;}
 #menu ul li{font-size:14px;font-weight:bold;display:inline;padding:0px;margin:0px;height:37px;}
 #menu ul li a{padding:0px;padding:0px 17px 0px 17px;float:left;text-align:center;color:#fff;line-height:34px;}
@@ -55,4 +55,8 @@
 .footerNav a {margin-right:15px;}
 .copyright{float:right;padding:10px 0px 0px 10px;}
 
+/*-----------------------------a link------------------*/
+a { text-decoration: none;}
+a:hover { text-decoration: underline;color: yellow; }
+a, .link { color: #ffffff; } /*链接的颜色*/
 

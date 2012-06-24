@@ -10,7 +10,7 @@ namespace wojilu.cms.Controller {
     public class CategoryController : ControllerBase {
 
         public CategoryController() {
-            base.LayoutControllerType = typeof(ArticleController);
+            base.LayoutControllerType = typeof(ProductController);
         }
 
         public void Show( int id ) {
@@ -24,7 +24,7 @@ namespace wojilu.cms.Controller {
             IBlock block = getBlock( "list" );
             foreach (Article a in list.Results) {
                 block.Set( "a.Title", a.Title );
-                block.Set( "a.ShowLink", to( new ArticleController().Show, a.Id ) );
+                block.Set( "a.ShowLink", to( new ProductController().Show, a.Id ) );
                 block.Next();
             }
 
@@ -53,7 +53,7 @@ namespace wojilu.cms.Controller {
             IBlock block = getBlock( "list" );
             foreach (Article a in list.Results) {
                 block.Set( "a.Title", a.Title );
-                block.Set( "a.ShowLink", to( new ArticleController().Show, a.Id ) );
+                block.Set( "a.ShowLink", to( new ProductController().Show, a.Id ) );
                 block.Next();
             }
         }

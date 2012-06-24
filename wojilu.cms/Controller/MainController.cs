@@ -13,15 +13,15 @@ namespace wojilu.cms.Controller {
 
         public void Index() {
 
-            List<Article> recent = Article.find( "" ).list( 5 );
-            IBlock block = getBlock( "recent" );
-            foreach (Article a in recent) {
-                block.Set( "a.Title", a.Title );
-                block.Set( "a.ShowLink", to( new ArticleController().Show, a.Id ) );
-                block.Next();
-            }
+            //List<Article> recent = Article.find( "" ).list( 5 );
+            //IBlock block = getBlock( "recent" );
+            //foreach (Article a in recent) {
+            //    block.Set( "a.Title", a.Title );
+            //    block.Set( "a.ShowLink", to( new ProductController().Show, a.Id ) );
+            //    block.Next();
+            //}
 
-            bind( "cfg", SystemConfig.Instance );
+            //bind( "cfg", SystemConfig.Instance );
         }
 
     }

@@ -48,6 +48,23 @@
     <Content Include="framework\config\route.config" />
     <Content Include="framework\config\site.config" />
     <Content Include="framework\lang\zh-cn\core.config" />
+    <Content Include="framework\views\Product\Index.html" />
+    <Content Include="framework\views\Product\Show.html" />
+    <Content Include="static\css\img\diy\1_close.png" />
+    <Content Include="static\css\img\diy\1_open.png" />
+    <Content Include="static\css\img\diy\2.png" />
+    <Content Include="static\css\img\diy\3.png" />
+    <Content Include="static\css\img\diy\4.png" />
+    <Content Include="static\css\img\diy\5.png" />
+    <Content Include="static\css\img\diy\6.png" />
+    <Content Include="static\css\img\diy\7.png" />
+    <Content Include="static\css\img\diy\8.png" />
+    <Content Include="static\css\img\diy\9.png" />
+    <Content Include="static\css\img\line_conn.gif" />
+    <Content Include="static\css\img\loading.gif" />
+    <Content Include="static\css\img\zTreeStandard.gif" />
+    <Content Include="static\css\img\zTreeStandard.png" />
+    <Content Include="static\css\zTreeStyle.css" />
     <Content Include="static\img\top.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -253,8 +270,6 @@
     <Content Include="framework\views\Admin\Footer\Add.html" />
     <Content Include="framework\views\Admin\Footer\Edit.html" />
     <Content Include="framework\views\Admin\Footer\Index.html" />
-    <Content Include="framework\views\Article\Layout.html" />
-    <Content Include="framework\views\Article\Show.html" />
     <Content Include="framework\views\Category\Show.html" />
     <Content Include="framework\views\Category\List.html" />
     <Content Include="framework\views\Category\ListContent.html" />
@@ -281,6 +296,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="framework\lang\en-us\core.config" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />

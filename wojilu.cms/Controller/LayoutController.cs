@@ -11,8 +11,8 @@ namespace wojilu.cms.Controller {
 
         public override void Layout() {
 
-            set( "adminLink", to( new Admin.ArticleController().Index ) ); // 后台管理首页的链接
-            set( "loginLink", to( new Admin.LoginController().Login ) );
+            //set( "adminLink", to( new Admin.ArticleController().Index ) ); // 后台管理首页的链接
+            //set( "loginLink", to( new Admin.LoginController().Login ) );
 
 
             List<Category> categories = Category.findAll();
@@ -32,28 +32,28 @@ namespace wojilu.cms.Controller {
         }
 
         private void bindFooters( List<Footer> footers ) {
-            IBlock block = getBlock( "footers" );
-            foreach (Footer f in footers) {
-                block.Set( "f.Name", f.Name );
-                block.Set( "f.ShowLink", to( new FooterController().Show, f.Id ) );
-                block.Next();
-            }
+            //IBlock block = getBlock( "footers" );
+            //foreach (Footer f in footers) {
+            //    block.Set( "f.Name", f.Name );
+            //    block.Set( "f.ShowLink", to( new FooterController().Show, f.Id ) );
+            //    block.Next();
+            //}
         }
 
         private void bindCategories( List<Category> categories ) {
 
-            Category current = ctx.GetItem( "category" ) as Category;
+            //Category current = ctx.GetItem( "category" ) as Category;
 
-            IBlock cblock = getBlock( "categories" );
-            foreach (Category c in categories) {
-                cblock.Set( "c.Name", c.Name );
-                cblock.Set( "c.ShowLink", to( new CategoryController().Show, c.Id ) );
+            //IBlock cblock = getBlock( "categories" );
+            //foreach (Category c in categories) {
+            //    cblock.Set( "c.Name", c.Name );
+            //    cblock.Set( "c.ShowLink", to( new CategoryController().Show, c.Id ) );
 
-                string selected = getSelected( current, c );
-                cblock.Set( "c.Selected", selected );
+            //    string selected = getSelected( current, c );
+            //    cblock.Set( "c.Selected", selected );
 
-                cblock.Next();
-            }
+            //    cblock.Next();
+            //}
 
         }
 
