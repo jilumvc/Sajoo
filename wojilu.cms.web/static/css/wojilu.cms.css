@@ -51,6 +51,8 @@
 
 /*-----------------------------footer------------------*/
 #footer{clear:both;height:65px;border-top:1px #bbb dotted;}
+#footer .text{text-align:center;}
+#footer .foottext{ padding:5px 0px; text-align:center; color:white; line-height:18px;font-size:12px;}
 .footerNav{float:left;padding:13px 0px 0px 10px;}
 .footerNav a {margin-right:15px;}
 .copyright{float:right;padding:10px 0px 0px 10px;}
@@ -59,4 +61,18 @@
 a { text-decoration: none;}
 a:hover { text-decoration: underline;color: yellow; }
 a, .link { color: #ffffff; } /*链接的颜色*/
+
+/*----Feedback文件----------------------------------------*/
+#feedback{ padding:10px; text-align:center; background:#336699; }
+table.feedback_table{ background:none; width:100%; text-align:left;}
+table.feedback_table td{ height:28px; line-height:28px; }
+table.feedback_table td.feedback_td1{ padding-right:3px;color:White;}
+table.feedback_table td.feedback_select,table.feedback_table td.feedback_input{ padding-left:3px;}
+table.feedback_table td.feedback_select select{ padding:1px; }
+table.feedback_table td.feedback_select option{ padding:1px; }
+
+table.feedback_table td.feedback_input input{ padding:2px; background:white; border:1px solid #bbb;width:260px;}
+table.feedback_table td.feedback_input input:focus{ border:0px solid #aaa;}
+table.feedback_table td.feedback_input textarea{ margin:3px 0px; width:80%; padding:2px; border:1px solid #bbb; }
+table.feedback_table td.feedback_input textarea:focus{ border:1px solid #aaa;}
 

@@ -209,3 +209,1603 @@ ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathW
    at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
    at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
  
+2012/6/24 17:37:35 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/home.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 17:38:15 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 17:38:15 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 17:38:15 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 17:50:11 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 17:50:11 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 17:50:11 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:34:47 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:34:47 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:34:47 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:41:39 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:41:39 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:41:39 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:42:23 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:42:23 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:42:23 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:46:10 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/contactus.htm
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:46:19 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:46:19 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 18:46:19 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:12:28 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/rocker.htm
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:12:31 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:12:31 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:12:31 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:12:43 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:24:20 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:24:20 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:24:20 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:28:23 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/rocker.htm
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:50:54 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:50:54 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:50:54 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:51:22 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:51:22 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:51:22 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:51:31 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:51:31 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:51:31 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:52:09 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:52:09 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:52:09 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:55:34 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:55:34 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:55:34 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:58:59 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:58:59 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 19:58:59 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:00:27 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:00:27 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:00:27 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:02:48 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:02:48 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:02:48 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:05:00 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:05:00 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:05:00 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:05:20 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:05:20 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:05:20 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:05:45 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:05:45 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:05:45 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:05:55 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:05:55 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:05:55 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:06:28 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:06:28 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:06:28 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:06:37 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:06:37 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:06:37 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:18:28 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:18:28 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:18:28 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:18:31 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:18:31 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:18:31 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:18:33 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:18:33 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:18:33 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:19:32 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:19:32 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:19:32 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:19:35 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:19:35 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:19:35 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:19:36 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:19:36 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:19:36 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:20:00 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:20:00 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:20:00 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:20:57 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:20:57 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:20:57 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:23:13 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/framework/views/About/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:23:13 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/framework/views/About/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:23:30 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:23:58 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:24:25 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:24:27 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:24:28 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:24:42 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:25:07 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:26:47 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/framework/views/About/pics/aboutus.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:26:55 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/pics/aboutus.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:35:13 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:35:13 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:35:13 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:35:38 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:35:38 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:35:38 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:36:43 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:36:43 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:36:43 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:38:22 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:38:22 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:38:22 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:38:27 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/002.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:38:27 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:38:27 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:38:47 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/004.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 20:38:47 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/images/003.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:21:15 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:21:42 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:21:50 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:21:51 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:21:52 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:22:23 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:22:43 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:23:15 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:24:09 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:24:10 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:24:11 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:24:35 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:24:36 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:24:36 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:24:37 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:25:12 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/small/input.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:47:14 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/Contact
+ex.Message=(view) key not found:exName
+ex.Source=wojilu
+ex.StackTrace=   at wojilu.Web.Templates.Tokens.VarToken.getpvalue(Object obj, String pname) in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\Tokens\VarToken.cs:line 101
+   at wojilu.Web.Templates.Tokens.VarToken.getPropertyValue(Object obj, String[] _objAccessor) in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\Tokens\VarToken.cs:line 82
+   at wojilu.Web.Templates.Tokens.VarToken.appendData(StringBuilder sb, ContentBlock block, BlockData blockdata) in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\Tokens\VarToken.cs:line 62
+   at wojilu.Web.ContentBlock.addResultOne(StringBuilder sb, BlockData data) in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\ContentBlock.cs:line 158
+   at wojilu.Web.ContentBlock.ToString() in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\ContentBlock.cs:line 151
+   at wojilu.Web.Template.ToString() in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\Template.cs:line 161
+   at wojilu.Web.Mvc.ControllerCore.getActionResult() in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ControllerCore.cs:line 74
+   at wojilu.Web.Mvc.Utils.ControllerRunner.runAction(ControllerBase controller, String actionName) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Utils\ControllerRunner.cs:line 106
+   at wojilu.Web.Mvc.ControllerCore.runAction(String actionName) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ControllerCore.cs:line 270
+   at wojilu.Web.Mvc.ControllerCore.runAction() in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ControllerCore.cs:line 261
+   at wojilu.Web.Mvc.Utils.ActionRunner.runAction(MvcContext ctx, ControllerBase controller, MethodInfo actionMethod, aAction run, Boolean isLayout) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Utils\ActionRunner.cs:line 49
+   at wojilu.Web.Mvc.Utils.ActionRunner.runAction(MvcContext ctx, ControllerBase controller, MethodInfo actionMethod, aAction run) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Utils\ActionRunner.cs:line 35
+   at wojilu.Web.Mvc.Processors.ActionProcessor.Process(ProcessContext context) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Processors\ActionProcessor.cs:line 58
+   at wojilu.Web.Mvc.ProcessContext.Begin(MvcContext ctx) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ProcessContext.cs:line 104
+   at wojilu.Web.Mvc.CoreHandler.ProcessRequest(HttpContext context) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\CoreHandler.cs:line 49
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:54:40 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:54:54 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:55:19 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:56:02 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 21:59:41 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:06:42 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:07:28 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:07:55 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:08:44 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:08:52 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:09:03 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/index.php?action=add&lang=en
+ex.Message=控制器不存在: index.php
+ex.PostedValue=para29=Access to information;para30=;para31=;Title=d@163.com;para33=;para34=;para36=;para37=;Submit=Submit;
+ex.Source=wojilu
+ex.StackTrace=   at wojilu.Web.Context.ContextInitBase.InitController(MvcContext ctx) in D:\Jinzhao\Project\sajoo\wojilu\Web\Context\ContextInitBase.cs:line 60
+   at wojilu.Web.Mvc.Processors.InitContextProcessor.Process(ProcessContext context) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Processors\InitContextProcessor.cs:line 44
+   at wojilu.Web.Mvc.ProcessContext.Begin(MvcContext ctx) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ProcessContext.cs:line 104
+   at wojilu.Web.Mvc.CoreHandler.ProcessRequest(HttpContext context) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\CoreHandler.cs:line 49
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:09:31 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/index.php?action=add&lang=en
+ex.Message=控制器不存在: index.php
+ex.PostedValue=para29=Access to information;para30=;para31=;Title=d@163.com;para33=;para34=;para36=;para37=;Submit=Submit;
+ex.Source=wojilu
+ex.StackTrace=   at wojilu.Web.Context.ContextInitBase.InitController(MvcContext ctx) in D:\Jinzhao\Project\sajoo\wojilu\Web\Context\ContextInitBase.cs:line 60
+   at wojilu.Web.Mvc.Processors.InitContextProcessor.Process(ProcessContext context) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Processors\InitContextProcessor.cs:line 44
+   at wojilu.Web.Mvc.ProcessContext.Begin(MvcContext ctx) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ProcessContext.cs:line 104
+   at wojilu.Web.Mvc.CoreHandler.ProcessRequest(HttpContext context) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\CoreHandler.cs:line 49
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:09:40 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:10:28 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:10:43 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:10:57 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:00 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:03 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:04 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:04 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:05 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:06 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:07 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:17 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:20 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:24 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:34 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:36 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:37 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:37 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:38 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:39 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:40 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:41 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:11:41 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/6/24 22:18:51 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 

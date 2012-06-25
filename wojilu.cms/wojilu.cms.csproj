@@ -70,8 +70,8 @@
     <Compile Include="Controller\Admin\UserController.cs" />
     <Compile Include="Controller\LangController.cs" />
     <Compile Include="Controller\ProductController.cs" />
-    <Compile Include="Controller\CategoryController.cs" />
-    <Compile Include="Controller\FooterController.cs" />
+    <Compile Include="Controller\ContactController.cs" />
+    <Compile Include="Controller\AboutController.cs" />
     <Compile Include="Controller\LayoutController.cs" />
     <Compile Include="Controller\MainController.cs" />
     <Compile Include="Controller\PostController.cs" />
