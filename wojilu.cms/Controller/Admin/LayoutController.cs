@@ -33,8 +33,8 @@ namespace wojilu.cms.Controller.Admin {
             set( "addLink", to( new ArticleController().Add ) );
             set( "listShowLink", to( new ArticleController().List ) );
 
-            set( "addCategory", to( new CategoryController().Add ) );
-            set( "categoryList", to( new CategoryController().Index ) );
+            //set( "addCategory", to( new CategoryController().Add ) );
+            //set( "categoryList", to( new CategoryController().Index ) );
 
             set( "loopListLink", to( new ArticleController().LoopList ) );
 

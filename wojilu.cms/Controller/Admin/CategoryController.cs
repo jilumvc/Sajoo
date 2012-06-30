@@ -13,10 +13,10 @@ namespace wojilu.cms.Controller.Admin {
     public class CategoryController : ControllerBase {
 
         //public CategoryService categoryService { get; set; }
-        public ICategoryService categoryService { get; set; }
+        public IProductService categoryService { get; set; }
 
         public CategoryController() {
-            categoryService = new CategoryService();
+            categoryService = new ProductService();
         }
 
         public void Show( int id ) {

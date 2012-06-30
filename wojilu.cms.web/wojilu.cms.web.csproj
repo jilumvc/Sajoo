@@ -292,6 +292,8 @@
     <Folder Include="framework\data\" />
     <Folder Include="framework\log\" />
     <Folder Include="framework\views\Main\" />
+    <Folder Include="static\img\en-us\" />
+    <Folder Include="static\img\zh-cn\" />
     <Folder Include="static\upload\image\" />
   </ItemGroup>
   <ItemGroup>

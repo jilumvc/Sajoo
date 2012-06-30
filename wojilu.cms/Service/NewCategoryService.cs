@@ -6,7 +6,7 @@ using wojilu.cms.Domain;
 
 namespace wojilu.cms.Service {
 
-    public class NewCategoryService : ICategoryService {
+    public class NewCategoryService : IProductService {
 
         public List<Category> GetAll() {
             return new List<Category> {
