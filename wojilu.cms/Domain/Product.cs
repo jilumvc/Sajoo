@@ -7,28 +7,40 @@ namespace wojilu.cms.Domain
 {
     public class Product : ObjectBase<Product>
     {
-        public int ParentID { get; set; }
+        [Column(Name = "ParentID")]
+        public int pId { get; set; }
 
-         [Column(Name = "Name")]
+        [Column(Name = "Name")]
         public string name { get; set; }
 
-        public string Title { get; set; }
+        [Column(Name = "Title")]
+        public string title { get; set; }
 
-        public string Ico { get; set; }
+        [Column(Name = "Font")]
+        public string font { get; set; }
 
-        public string IcoOpen { get; set; }
+        [Column(Name = "Ico")]
+        public string ico { get; set; }
 
-        public string IcoClose { get; set; }
+        [Column(Name = "IcoOpen")]
+        public string icoOpen { get; set; }
 
-        public string ImageSrc { get; set; }
+        [Column(Name = "IcoClose")]
+        public string icoClose { get; set; }
 
-        public string IsParent { get; set; }
+        [Column(Name = "ImageSrc")]
+        public string src { get; set; }
 
-         [Column(Name = "IsOpen")]
+        [Column(Name = "IsParent")]
+        public string isParent { get; set; }
+
+        [Column(Name = "IsOpen")]
         public string open { get; set; }
 
-        public string IsCollapse { get; set; }
+        [Column(Name = "IsCollapse")]
+        public string collapse { get; set; }
 
-        public string IsExpand { get; set; }
+        [Column(Name = "IsExpand")]
+        public string expand { get; set; }
     }
 }

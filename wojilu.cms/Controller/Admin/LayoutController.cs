@@ -29,14 +29,14 @@ namespace wojilu.cms.Controller.Admin {
             set( "user.Name", user.Name );
             set( "logoutLink", to( new LoginController().Logout ) ); // 设置注销的网址
 
-            set( "listLink", to( new ArticleController().Index  ) );
-            set( "addLink", to( new ArticleController().Add ) );
-            set( "listShowLink", to( new ArticleController().List ) );
+            //set( "listLink", to( new ArticleController().Index  ) );
+            //set( "addLink", to( new ArticleController().Add ) );
+            //set( "listShowLink", to( new ArticleController().List ) );
 
             //set( "addCategory", to( new CategoryController().Add ) );
             //set( "categoryList", to( new CategoryController().Index ) );
 
-            set( "loopListLink", to( new ArticleController().LoopList ) );
+            //set( "loopListLink", to( new ArticleController().LoopList ) );
 
             set( "userList", to( new UserController().Index ) );
             set( "userAdd", to( new UserController().Add ) );

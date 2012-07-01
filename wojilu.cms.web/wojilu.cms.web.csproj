@@ -49,7 +49,6 @@
     <Content Include="framework\config\route.config" />
     <Content Include="framework\config\site.config" />
     <Content Include="framework\lang\zh-cn\core.config" />
-    <Content Include="framework\views\Contact\Index.html" />
     <Content Include="framework\views\Product\Index.html" />
     <Content Include="framework\views\Product\Show.html" />
     <Content Include="static\css\img\diy\1_close.png" />
@@ -275,7 +274,7 @@
     <Content Include="framework\views\Admin\Footer\Index.html" />
     <Content Include="framework\views\Layout\Layout.html" />
     <Content Include="framework\views\About\Index.html" />
-    <Content Include="framework\views\Post\Index.html" />
+    <Content Include="framework\views\FeedBack\Index.html" />
     <Content Include="static\css\wojilu.cms.css" />
   </ItemGroup>
   <ItemGroup>

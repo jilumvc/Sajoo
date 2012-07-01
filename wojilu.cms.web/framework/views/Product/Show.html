@@ -13,13 +13,13 @@
         view: {
                 showIcon:false,
 				fontCss: getFont,
-				nameIsHTML: true
+				nameIsHTML: false
 			},
         data: {
             simpleData: {
                 enable: true,
 			    idKey: "Id",
-			    pIdKey: "ParentId",
+			    pIdKey: "pId",
 			    rootPId: 0
             }
         },
@@ -30,7 +30,9 @@
 
     };
 
-//    var zNodes = [{ "Id": 1, "Name": "SAJOO ROCKER SWITCH", "ParentID": 0, "Title": "SAJOO ROCKER SWITCH", "Ico": "", "IcoOpen": "", "IcoClose": "", "ImageSrc": "", "IsParent": true, "IsOpen": "true", "IsCollapse": "", "IsExpand": ""}];
+//    var zNodes = [{ "Id": 1, "pId": 0, "name": "31", "Title": "SAJOO ROCKER SWITCH", open: true }, { "Id": 2, "pId": 1, "name": "1", "Title": "SAJOO ROCKER SWITCH" }, { "Id": 3, "pId": 2, "name": "2", "Title": "SAJOO ROCKER SWITCH"}];
+
+//    var zNodes = [{ "Id": 1, "pId": 0, "name": "SAJOO ROCKER SWITCH", "Title": "SAJOO ROCKER SWITCH", "open": "true" }, { "Id": 2, "pId": 1, "name": "1", "Title": "SAJOO ROCKER SWITCH", "Ico": "", "IcoOpen": "", "IcoClose": "", "ImageSrc": "", "IsParent": "true", "open": "true", "IsCollapse": "", "IsExpand": "" }, { "Id": 3, "pId": 2, "name": "2", "Title": "SAJOO ROCKER SWITCH", "Ico": "", "IcoOpen": "", "IcoClose": "", "ImageSrc": "", "IsParent": "true", "open": "true", "IsCollapse": "", "IsExpand": ""}];
 
 //    var zNodes = [
 //			{ id: 1, pId: 0, name: "SAJOO ROCKER SWITCH", font: { 'color': '#3CC5F1' }, open: true },
@@ -75,6 +77,7 @@
         return (treeNode.click != false);
     }
     function onClick(event, treeId, treeNode, clickFlag) {
+        if(treeNode.isParent) return false;
         var src = treeNode.src ? treeNode.src : "";
 
         $('#productimage').attr("src", src);

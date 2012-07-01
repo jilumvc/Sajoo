@@ -9,9 +9,9 @@ namespace wojilu.cms.Controller.Admin {
 
     public partial class ArticleController : ControllerBase {
         
-        private void bindListShow( List<Article> list ) {
+        private void bindListShow( List<FeedBack> list ) {
             IBlock block = getBlock( "list" );
-            foreach (Article a in list) {
+            foreach (FeedBack a in list) {
 
                 block.Set( "article.Id", a.Id );
 
@@ -28,7 +28,7 @@ namespace wojilu.cms.Controller.Admin {
             block.Set( "article.DeleteLink", to( Delete, id ) );
         }
 
-        private void bindCategoryAndArticlet( List<Category> categories, List<Article> articles ) {
+        private void bindCategoryAndArticlet( List<Category> categories, List<FeedBack> articles ) {
             // 获取[分类]循环块
             IBlock cateroyBlock = getBlock( "categories" );
             foreach (Category category in categories) {
@@ -36,8 +36,8 @@ namespace wojilu.cms.Controller.Admin {
 
                 // 获取[文章]循环块
                 IBlock articleBlock = cateroyBlock.GetBlock( "articles" );
-                List<Article> articlesByCategory = filterArticle( articles, category );
-                foreach (Article article in articlesByCategory) {
+                List<FeedBack> articlesByCategory = filterArticle( articles, category );
+                foreach (FeedBack article in articlesByCategory) {
                     articleBlock.Set( "article.Id", article.Id );
                     articleBlock.Set( "article.Title", article.Title );
                     articleBlock.Set( "article.Created", article.Created );
@@ -48,9 +48,9 @@ namespace wojilu.cms.Controller.Admin {
             }
         }
 
-        private List<Article> filterArticle( List<Article> articles, Category category ) {
-            List<Article> results = new List<Article>();
-            foreach (Article a in articles) {
+        private List<FeedBack> filterArticle( List<FeedBack> articles, Category category ) {
+            List<FeedBack> results = new List<FeedBack>();
+            foreach (FeedBack a in articles) {
                 if (a.Category.Id == category.Id) results.Add( a );
             }
             return results;

@@ -27,6 +27,7 @@ namespace wojilu.cms.Controller {
             List<Product> list = Product.findAll();
             string jsonString = JsonString.ConvertList(list);
 
+            jsonString = jsonString.Replace("\"{", "{").Replace("}\"", "}").Replace("#path#", sys.Path.Img + langStr);
             set("LangVersion", langStr);
             set("ImgName", id);
 

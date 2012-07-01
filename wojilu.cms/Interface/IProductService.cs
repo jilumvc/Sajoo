@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using wojilu.cms.Domain;
 
-namespace wojilu.cms.Interface {
-
-    public interface IProductService {
-
+namespace wojilu.cms.Interface
+{
+    public interface IProductService
+    {
         List<Product> GetAll();
         Product GetById(int id);
 

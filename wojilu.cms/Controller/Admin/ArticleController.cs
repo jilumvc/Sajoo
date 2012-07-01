@@ -13,25 +13,25 @@ namespace wojilu.cms.Controller.Admin {
         private static readonly ILog logger = LogManager.GetLogger( typeof( ArticleController ) );        
 
         public void List() {
-            List<Article> list = Article.findAll();
+            List<FeedBack> list = FeedBack.findAll();
             bindListShow( list );
         }
 
         public void LoopList() {
             List<Category> categories = Category.findAll();
-            List<Article> articles = Article.findAll();
+            List<FeedBack> articles = FeedBack.findAll();
 
             bindCategoryAndArticlet( categories, articles );
         }
 
         public void Index() {
             logger.Info( "开始获取文章列表" );
-            DataPage<Article> list = Article.findPage( "", SystemConfig.Instance.PageSize );
+            DataPage<FeedBack> list = FeedBack.findPage( "", SystemConfig.Instance.PageSize );
             logger.Info( "开始绑定列表" );
             bindAdminList( list );
         }
 
-        private void bindAdminList( DataPage<Article> list ) {
+        private void bindAdminList( DataPage<FeedBack> list ) {
             bindList( "list", "article", list.Results, bindLink );
             set( "page", list.PageBar );
 
@@ -54,9 +54,9 @@ namespace wojilu.cms.Controller.Admin {
 
             int qtype = ctx.GetInt( "qtype" );
 
-            DataPage<Article> list = new DataPage<Article>();
+            DataPage<FeedBack> list = new DataPage<FeedBack>();
             if (qtype == 1) {
-                list = Article.findPage( "Title like '%" + key + "%' " );
+                list = FeedBack.findPage( "Title like '%" + key + "%' " );
             }
 
             bindAdminList( list );
@@ -77,10 +77,10 @@ namespace wojilu.cms.Controller.Admin {
             string condition = string.Format( "Id in ({0})", choiceIds );
 
             if ("delete".Equals( action )) {
-                db.deleteBatch<Article>( condition );
+                db.deleteBatch<FeedBack>( condition );
             }
             else if ("category".Equals( action )) {
-                db.updateBatch<Article>( "set CategoryId=" + categoryId, condition );
+                db.updateBatch<FeedBack>( "set CategoryId=" + categoryId, condition );
             }
 
             echoAjaxOk();
@@ -99,7 +99,7 @@ namespace wojilu.cms.Controller.Admin {
         }
 
         public void Create() {
-            Article a = ctx.PostValue<Article>();
+            FeedBack a = ctx.PostValue<FeedBack>();
             a.Category = new Category { Id = ctx.PostInt( "categoryId" ) };
             a.Content = ctx.PostHtml( "article.Content" );
             Result result = db.insert( a );
@@ -113,7 +113,7 @@ namespace wojilu.cms.Controller.Admin {
 
         public void Edit( int id ) {
             target( Update, id );
-            Article a = Article.findById( id );
+            FeedBack a = FeedBack.findById( id );
             bind( a );
             int selected = a.Category == null ? 0 : a.Category.Id;
             dropList( "categoryId", Category.findAll(), "Name=Id", selected );
@@ -121,8 +121,8 @@ namespace wojilu.cms.Controller.Admin {
         }
 
         public void Update( int id ) {
-            Article a = Article.findById( id );
-            a = ctx.PostValue( a ) as Article;
+            FeedBack a = FeedBack.findById( id );
+            a = ctx.PostValue( a ) as FeedBack;
             a.Category = new Category { Id = ctx.PostInt( "categoryId" ) };
             a.Content = ctx.PostHtml( "article.Content" );
             Result result = db.update( a );
@@ -136,7 +136,7 @@ namespace wojilu.cms.Controller.Admin {
 
         [HttpDelete]
         public void Delete( int id ) {
-            Article a = Article.findById( id );
+            FeedBack a = FeedBack.findById( id );
             db.delete( a );
             redirect( Index );
         }

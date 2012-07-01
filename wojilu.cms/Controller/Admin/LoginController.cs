@@ -57,7 +57,7 @@ namespace wojilu.cms.Controller.Admin {
 
             ctx.web.UserLogin( user.Id, user.Name, wojilu.Common.LoginTime.OneMonth );
 
-            string returnUrl = strUtil.HasText( ctx.Post( "returnUrl" ) ) ? ctx.Post( "returnUrl" ) : to( new ArticleController().Index );
+            string returnUrl = strUtil.HasText( ctx.Post( "returnUrl" ) ) ? ctx.Post( "returnUrl" ) : to( new FeedBackController().Index );
             redirectUrl( returnUrl ); // 跳转到文章管理页面
         }
 
