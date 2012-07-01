@@ -49,6 +49,7 @@
     <Content Include="framework\config\route.config" />
     <Content Include="framework\config\site.config" />
     <Content Include="framework\lang\zh-cn\core.config" />
+    <Content Include="framework\views\Product\New.html" />
     <Content Include="framework\views\Product\Index.html" />
     <Content Include="framework\views\Product\Show.html" />
     <Content Include="static\css\img\diy\1_close.png" />

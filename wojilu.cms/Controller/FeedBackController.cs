@@ -36,7 +36,7 @@ namespace wojilu.cms.Controller
 
             if (string.IsNullOrEmpty(email))
             {
-                echoRedirect(lang("NotFound404"));
+                echoRedirect(lang("exMail"));
                 return;
             }
 
@@ -61,7 +61,7 @@ namespace wojilu.cms.Controller
 
             feedbackService.Insert(fbEntity);
 
-            echoRedirect(lang("exPhotoUploadErrorTip"), Index);
+            echoRedirect(lang("feedbackSuccess"), Index);
         }
 
     }

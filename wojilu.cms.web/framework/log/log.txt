@@ -113,3 +113,132 @@ ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathW
    at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
    at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
  
+2012/7/1 14:33:37 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/7/1 14:33:56 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/7/1 14:34:40 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/css/wojilu.site.css?v=0001
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/7/1 14:35:08 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/error.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/7/1 14:35:11 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/ajax/ok.gif
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/7/1 14:40:59 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/en-us/zhn 2.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/7/1 14:41:00 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/en-us/zhn 1.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/7/1 14:41:03 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/en-us/zhn 2.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/7/1 14:41:04 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/static/img/en-us/zhn 1.jpg
+ex.Message=文件不存在
+ex.Source=System.Web
+ex.StackTrace=   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/7/1 21:47:38 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/About.aspx
+ex.Message=(view) key not found:about2
+ex.Source=wojilu
+ex.StackTrace=   at wojilu.Web.Templates.Tokens.VarToken.getpvalue(Object obj, String pname) in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\Tokens\VarToken.cs:line 101
+   at wojilu.Web.Templates.Tokens.VarToken.getPropertyValue(Object obj, String[] _objAccessor) in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\Tokens\VarToken.cs:line 82
+   at wojilu.Web.Templates.Tokens.VarToken.appendData(StringBuilder sb, ContentBlock block, BlockData blockdata) in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\Tokens\VarToken.cs:line 62
+   at wojilu.Web.ContentBlock.addResultOne(StringBuilder sb, BlockData data) in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\ContentBlock.cs:line 158
+   at wojilu.Web.ContentBlock.ToString() in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\ContentBlock.cs:line 151
+   at wojilu.Web.Template.ToString() in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\Template.cs:line 161
+   at wojilu.Web.Mvc.ControllerCore.getActionResult() in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ControllerCore.cs:line 74
+   at wojilu.Web.Mvc.Utils.ControllerRunner.runAction(ControllerBase controller, String actionName) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Utils\ControllerRunner.cs:line 106
+   at wojilu.Web.Mvc.ControllerCore.runAction(String actionName) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ControllerCore.cs:line 270
+   at wojilu.Web.Mvc.ControllerCore.runAction() in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ControllerCore.cs:line 261
+   at wojilu.Web.Mvc.Utils.ActionRunner.runAction(MvcContext ctx, ControllerBase controller, MethodInfo actionMethod, aAction run, Boolean isLayout) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Utils\ActionRunner.cs:line 49
+   at wojilu.Web.Mvc.Utils.ActionRunner.runAction(MvcContext ctx, ControllerBase controller, MethodInfo actionMethod, aAction run) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Utils\ActionRunner.cs:line 35
+   at wojilu.Web.Mvc.Processors.ActionProcessor.Process(ProcessContext context) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Processors\ActionProcessor.cs:line 58
+   at wojilu.Web.Mvc.ProcessContext.Begin(MvcContext ctx) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ProcessContext.cs:line 104
+   at wojilu.Web.Mvc.CoreHandler.ProcessRequest(HttpContext context) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\CoreHandler.cs:line 49
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/7/1 21:51:45 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/default.aspx
+ex.Message=(view) key not found:home
+ex.Source=wojilu
+ex.StackTrace=   at wojilu.Web.Templates.Tokens.VarToken.getpvalue(Object obj, String pname) in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\Tokens\VarToken.cs:line 101
+   at wojilu.Web.Templates.Tokens.VarToken.getPropertyValue(Object obj, String[] _objAccessor) in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\Tokens\VarToken.cs:line 82
+   at wojilu.Web.Templates.Tokens.VarToken.appendData(StringBuilder sb, ContentBlock block, BlockData blockdata) in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\Tokens\VarToken.cs:line 62
+   at wojilu.Web.ContentBlock.addResultOne(StringBuilder sb, BlockData data) in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\ContentBlock.cs:line 158
+   at wojilu.Web.ContentBlock.ToString() in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\ContentBlock.cs:line 151
+   at wojilu.Web.Template.ToString() in D:\Jinzhao\Project\sajoo\wojilu\Web\Templates\Template.cs:line 161
+   at wojilu.Web.Mvc.ControllerCore.getActionResult() in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ControllerCore.cs:line 74
+   at wojilu.Web.Mvc.Processors.NsLayoutProcessor.addLayoutPrivate(String path, String actionContent, MvcContext ctx, Boolean isLastLayout) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Processors\NsLayoutProcessor.cs:line 101
+   at wojilu.Web.Mvc.Processors.NsLayoutProcessor.Process(ProcessContext context) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Processors\NsLayoutProcessor.cs:line 49
+   at wojilu.Web.Mvc.ProcessContext.Begin(MvcContext ctx) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ProcessContext.cs:line 104
+   at wojilu.Web.Mvc.CoreHandler.ProcessRequest(HttpContext context) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\CoreHandler.cs:line 49
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 
+2012/7/1 21:53:47 error wojilu.Web.GlobalApp.AppGlobalLogger - url=http://localhost:2575/Home.aspx
+ex.Message=控制器不存在: Home
+ex.Source=wojilu
+ex.StackTrace=   at wojilu.Web.Context.ContextInitBase.InitController(MvcContext ctx) in D:\Jinzhao\Project\sajoo\wojilu\Web\Context\ContextInitBase.cs:line 60
+   at wojilu.Web.Mvc.Processors.InitContextProcessor.Process(ProcessContext context) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\Processors\InitContextProcessor.cs:line 44
+   at wojilu.Web.Mvc.ProcessContext.Begin(MvcContext ctx) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\ProcessContext.cs:line 104
+   at wojilu.Web.Mvc.CoreHandler.ProcessRequest(HttpContext context) in D:\Jinzhao\Project\sajoo\wojilu\Web\Mvc\CoreHandler.cs:line 49
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ 

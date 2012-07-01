@@ -71,10 +71,11 @@
                                             </tr>
                                             <tr class="feedback_tr" height="25">
                                                 <td class="feedback_td1" align="right" width="20%">
-                                                    Phone&nbsp;
+                                                   * Phone&nbsp;
                                                 </td>
                                                 <td class="feedback_input" width="70%">
-                                                    <input name="Phone" type="text" size="30" class="input-text"/>
+                                                    <input name="Phone" type="text" size="30" class="tipInput" tip="Please input phone number."/><span
+                                                        class="valid" msg="Please input phone number" rule="int"></span>
                                                 </td>
                                             </tr>
                                             <tr class="feedback_tr" height="25">
@@ -95,10 +96,11 @@
                                             </tr>
                                             <tr class="feedback_tr" height="25">
                                                 <td class="feedback_td1" align="right" width="20%">
-                                                    Enquiry Message&nbsp;
+                                                    * Enquiry Message&nbsp;
                                                 </td>
                                                 <td class="feedback_input" width="70%">
-                                                    <textarea name="Message" class="textarea-text" cols="50" rows="8"></textarea>
+                                                    <textarea name="Message" class="tipInput" tip="Please input your enquiry message." cols="50" rows="8"></textarea><span
+                                                        class="valid" msg="Please enter more than 5 characters" rule="^.{5,}$"></span>
                                                 </td>
                                             </tr>
                                             <tr>

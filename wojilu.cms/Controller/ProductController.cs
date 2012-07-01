@@ -22,6 +22,11 @@ namespace wojilu.cms.Controller {
             
         }
 
+        public void New()
+        {
+
+        }
+
         public void Show( int id ) {
             String langStr = wojilu.lang.getLangString();
             List<Product> list = Product.findAll();

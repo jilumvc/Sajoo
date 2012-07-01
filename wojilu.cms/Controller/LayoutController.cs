@@ -5,36 +5,51 @@ using wojilu.Web;
 using wojilu.Web.Mvc;
 using wojilu.cms.Domain;
 
-namespace wojilu.cms.Controller {
+namespace wojilu.cms.Controller
+{
 
-    public class LayoutController : ControllerBase {
+    public class LayoutController : ControllerBase
+    {
 
-        public override void Layout() {
+        public override void Layout()
+        {
 
             //set( "adminLink", to( new Admin.ArticleController().Index ) ); // 后台管理首页的链接
             //set( "loginLink", to( new Admin.LoginController().Login ) );
 
-            set("loginLink", t2(new LangController().Switch) + "?lang=en-us");
+            //set("loginLink", t2(new LangController().Switch) + "?lang=en-us");
 
-            set("adminLink", t2(new LangController().Switch) + "?lang=zh-cn");
+            String langStr = wojilu.lang.getLangString();
+            if (langStr.ToLower() == "en-us")
+            {
+                langStr = "zh-cn";
+            }
+            else
+            {
+                langStr = "en-us";
+            }
+           
+            set("version", t2(new LangController().Switch) + "?lang=" + langStr);
 
             List<Category> categories = Category.findAll();
-            bindCategories( categories );
+            bindCategories(categories);
 
             List<Footer> footers = cdb.findAll<Footer>();
-            bindFooters( footers );
+            bindFooters(footers);
 
             bindNavCurrent();
         }
 
-        private void bindNavCurrent() {
+        private void bindNavCurrent()
+        {
             string s = "";
             string path = ctx.url.Path;
             if (path == "" || path == "/" || path.ToLower() == "/default.aspx") s = "class=\"selected\"";
-            set( "homeSelected", s );
+            set("homeSelected", s);
         }
 
-        private void bindFooters( List<Footer> footers ) {
+        private void bindFooters(List<Footer> footers)
+        {
             //IBlock block = getBlock( "footers" );
             //foreach (Footer f in footers) {
             //    block.Set( "f.Name", f.Name );
@@ -43,7 +58,8 @@ namespace wojilu.cms.Controller {
             //}
         }
 
-        private void bindCategories( List<Category> categories ) {
+        private void bindCategories(List<Category> categories)
+        {
 
             //Category current = ctx.GetItem( "category" ) as Category;
 
@@ -60,7 +76,8 @@ namespace wojilu.cms.Controller {
 
         }
 
-        private static string getSelected( Category current, Category c ) {
+        private static string getSelected(Category current, Category c)
+        {
 
             string selected = "class=\"selected\"";
 
